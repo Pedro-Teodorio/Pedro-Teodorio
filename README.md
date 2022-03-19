@@ -5,6 +5,7 @@
 - 🖥️ Em busca de oportunidades de emprego na área de Desenvolvimento Front-End ou Back-End.
 - 🌱 Estudando Python
 - ⚡ Amo basquete,ler mangá,programar e aprender sobre coisas novas
+- 💡 <a href="https://pedro-teodorio.github.io/Meu-Portfolio/">Portfólio</a>
 
 
 <div align="center">
